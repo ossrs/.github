@@ -1,2 +1,4 @@
-* EN: https://ossrs.io
-* CN: https://ossrs.net
+# Hey, this is SRS!
+
+* English: https://ossrs.io
+* Chinese: https://ossrs.net
