@@ -10,8 +10,9 @@ with the support you need:
 * Sponsor: $100 per month, online text chat plus online meeting support.
 
 Please visit [OpenCollective](https://opencollective.com/srs-server) to become a backer or sponsor, and send
-us a direct message on [Discord](https://discord.gg/bQUPDRqy79). We are currently providing support to the 
-developers listed below:
+us a direct message on [Discord](https://discord.gg/bQUPDRqy79). 
+
+We are currently providing support to the developers listed below:
 
 [![](https://opencollective.com/srs-server/backers.svg?width=800&button=false)](https://opencollective.com/srs-server)
 
